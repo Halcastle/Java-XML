@@ -1,4 +1,4 @@
-package org.example.java_xml;
+package org.example.java_xml.parse;
 
 import org.jdom2.Attribute;
 import org.jdom2.Document;

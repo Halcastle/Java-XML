@@ -1,5 +1,6 @@
-package org.example.java_xml;
+package org.example.java_xml.parse;
 
+import org.example.java_xml.Book;
 import org.jdom2.Attribute;
 import org.jdom2.Document;
 import org.jdom2.Element;
